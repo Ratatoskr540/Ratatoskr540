@@ -1,7 +1,7 @@
 # Ratatoskr540
 
-Hello, my name is *****, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
-Recently ive been doing rust but i also do C and Python although most of those projects are private.
+Hello, my name is Jamie I am from the UK.
+Most of my projects are no longer on github because i dont want them being trained on.
 
 ## Most used languages
 
