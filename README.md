@@ -1,7 +1,6 @@
 # Ratatoskr540
 
-Hello, my name is Jamie I am from the UK.
-Most of my projects are no longer on github because i dont want them being trained on.
+Hello, my name is Jamie I am from the UK I study Mathematics.
 
 ## Most used languages
 
